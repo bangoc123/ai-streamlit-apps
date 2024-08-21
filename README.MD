@@ -2,6 +2,8 @@
 - Chatbot
 - Image Generation
 
+![](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/bff10fb0-5f7a-11ef-9b72-9db6eacc12d1-Screen_Shot_2024_08_21_at_11.58.07.png)
+
 
 Sure! Here's how you could expand the **Installation** section for your README.md file:
 

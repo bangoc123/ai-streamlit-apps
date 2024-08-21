@@ -23,7 +23,7 @@ if "img_flask_api_url" not in st.session_state:
 def vote():
     st.markdown(
         """
-        Run the backend [here](https://colab.research.google.com/drive/1XIZikuY3KtZzfnDG3wEcBBIHJhhdKgU-?usp=sharing) and paste the Ngrok link below.
+        Run the backend [here](https://colab.research.google.com/drive/125JxHsVRrKUQUMOA3h9knlUiuM7OBYlk?usp=sharing) and paste the Ngrok link below.
         """
     )
     link = st.text_input("Backend URL", "")
