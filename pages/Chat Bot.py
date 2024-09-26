@@ -88,7 +88,3 @@ if prompt := st.chat_input("What is up?"):
             st.session_state.chat_history.append({"role": "assistant", "content": api_response['content']})
         else:
             st.error(f"Error: {response.status_code}")
-
-
-
-   
