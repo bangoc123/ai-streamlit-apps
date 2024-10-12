@@ -4,11 +4,6 @@ import base64
 import uuid
 from audio_recorder_streamlit import audio_recorder
 
-# Load your logo image file
-logo = "http://localhost:3001/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fprotonx-cloud-storage%2Fcropped-cropped-ProtonX-logo-1-1-300x100.png&w=256&q=75"
-
-# Display the logo in the sidebar
-st.sidebar.image(logo, width=100)
 st.title("Speech-to-Text with Ngrok")
 
 # Generate a random session ID

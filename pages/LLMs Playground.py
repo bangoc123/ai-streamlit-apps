@@ -8,6 +8,11 @@ page = st.title("Assignment 3 - Build LLMs Playground")
 page = st.markdown("""
     Assignment 3 - ProtonX AI for devs
 """)
+st.markdown(
+        """
+        Run the backend [here](https://colab.research.google.com/drive/1iP8Kh9hatMKUpTmIuZXpKgHMi87hRN9b?usp=sharing).
+        """
+    )
 
 st.session_state.flask_api_url = "https://7274-34-74-112-255.ngrok-free.app/chat"  # Set your Flask API URL here
 

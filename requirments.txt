@@ -1,1 +1,2 @@
 streamlit
+audio_recorder_streamlit

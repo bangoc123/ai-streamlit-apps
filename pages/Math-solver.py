@@ -10,6 +10,13 @@ API_URL = "https://8f86-34-142-165-13.ngrok-free.app/convert_to_latex"
 
 st.title("Chuyên gia giải toán")
 
+st.markdown(
+        """
+        Run the backend [here](https://colab.research.google.com/drive/10Q_Cw4HjO2aXXe5I6bfcSrArSu46VYYX).
+        """
+    )
+
+
 # Set up a canvas for drawing
 canvas_result = st_canvas(
     fill_color="rgba(255, 165, 0, 0.3)",  # Fill color with some transparency

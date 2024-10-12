@@ -8,6 +8,11 @@ API_ENDPOINT = "https://b227-34-74-136-120.ngrok-free.app/chat"
 # Streamlit UI setup
 st.title("LLAMA 3.2 Multimodal")
 st.write("Enter the image URL and prompt to extract text")
+st.markdown(
+        """
+        Run the backend [here](https://colab.research.google.com/drive/1TI20WrvVAEIB45PsmF9Noo-6VUCk7UPc?usp=sharing).
+        """
+    )
 
 # Input fields for image URL and prompt
 image_url = st.text_input("Image URL:", placeholder="Enter the image URL here")

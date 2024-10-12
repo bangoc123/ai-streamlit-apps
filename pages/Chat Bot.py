@@ -2,12 +2,6 @@ import streamlit as st
 import requests
 # Set up the Streamlit interface
 
-# Load your logo image file
-logo = "http://localhost:3001/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fprotonx-cloud-storage%2Fcropped-cropped-ProtonX-logo-1-1-300x100.png&w=256&q=75"
-
-# Display the logo in the sidebar
-st.sidebar.image(logo, width=100)
-
 page = st.title("Chat with Ngrok")
 
 def clear_session_state():
