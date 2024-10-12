@@ -3,7 +3,7 @@ import requests
 import json
 
 # Define the endpoint URL
-API_ENDPOINT = "https://b227-34-74-136-120.ngrok-free.app/chat"
+API_ENDPOINT = "https://df86-35-227-90-179.ngrok-free.app/chat"
 
 # Streamlit UI setup
 st.title("LLAMA 3.2 Multimodal")
