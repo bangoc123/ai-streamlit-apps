@@ -6,7 +6,7 @@
 - LLMs Playground
 - Math Solver
 
-![](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/bff10fb0-5f7a-11ef-9b72-9db6eacc12d1-Screen_Shot_2024_08_21_at_11.58.07.png)
+![](https://storage.googleapis.com/mle-courses-prod/users/61b6fa1ba83a7e37c8309756/private-files/caba3a00-8853-11ef-b095-cf36210a4279-Screen_Shot_2024_10_12_at_11.37.57.png)
 
 
 ### Installation
